@@ -85,7 +85,8 @@ public class App {
 		System.out.println("STARTING COUNT TIME ON JSON FILE PROCESSING");
 		long timeStartJSON = System.currentTimeMillis();
 		System.out.println("READING JSON FILE\n--------------------------------------------------------------------");
-
+		
+		// Just to commit new
 		// SparkSession spark = SparkSession.builder().appName("Java Spark SQL
 		// JSON basic")
 		// .config("spark.some.config.option", "some-value").getOrCreate();		
